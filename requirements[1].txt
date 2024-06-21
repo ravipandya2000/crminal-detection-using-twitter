@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+pillow
+scikit-learn
+nltk
+twython
+demoji
+emoji
